@@ -5,8 +5,8 @@ Final Year B.Tech – Electronics & Communication Engineering
 RGMCET (Autonomous), Nandyal, Andhra Pradesh
 
 📧 buramsanjay59@gmail.com
-💼 LinkedIn
-🐙 GitHub
+💼 LinkedIn https://linkedin.com/in/buram-sanjay-308ba5370
+🐙 GitHub https://github.com/buramsanjay004
 
 
 📝 License
